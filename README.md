@@ -14,4 +14,4 @@ Built in a Jupyter notebook using VS Code. Suitable for case studies or intervie
 - ⚠️ London slightly underperforms
 - ❌ Manchester shows zero conversions and should be investigated
 
-## Requirements
+
