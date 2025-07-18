@@ -7,9 +7,8 @@ A simple data analysis project using pandas and matplotlib to explore customer q
 - Group-based analysis & insights
 - Data visualization with bar charts + trends
 
-Built in a Jupyter notebook using VS Code. Suitable for case studies or interview demos.
-
-## Example Insights:
+Built in a Jupyter notebook using VS Code.
+## Insights:
 - 📍 Leeds exceeds its target conversion rate
 - ⚠️ London slightly underperforms
 - ❌ Manchester shows zero conversions and should be investigated
